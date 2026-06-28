@@ -4,7 +4,7 @@ An advanced, interactive Streamlit prototype mapping multi-modal clinical data a
 
 ## Repository Overview
 
-* `cotiviti_clinical_prototype.py`: The core functional application engine featuring a resilient hybrid online/offline model.
+* `cotiviti_clinical_poc.py`: The core functional application engine featuring a resilient hybrid online/offline model.
 * `/documents`: Contains the files-Research and analyze **"INTERN - Bamisaye Folorunsho – Lead City University, Ibadan.doc"** and PowerPoint presentation, the overview of my report and POC  **"INTERN - Bamisaye Folorunsho – Lead City University, Ibadan.pptx"**
   
 ## Technical Features
